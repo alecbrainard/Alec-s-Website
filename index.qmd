@@ -5,3 +5,5 @@ title: "Alec's-Website"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![](_sites/nba_schedule_grid.png)
